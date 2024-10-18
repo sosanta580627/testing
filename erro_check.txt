@@ -1,1 +1,2 @@
 This is txt file. And this file made for check the program  error .Welcome to the new world . This is a simple repository.I am learning how to create repository and how to push it in github. 
+Adding a extra feature .
